@@ -2,10 +2,10 @@
 
 This project was made by:
 
-Joao Veidz
-Juliane Marques
-Laura Fumagalli
-Max Miranda
+- Joao Veidz
+- Juliane Marques
+- Laura Fumagalli
+- Max Miranda
 
 ### Briefing:
 
