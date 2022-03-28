@@ -19,5 +19,10 @@ To create an Recipe's App for mobile and also for web.
   
 ### How to open
 
-npm install
-npm start
+first you'll need to install the dependencies using:
+
+'npm install'
+
+and then you'll use this command to open in your browser:
+
+'npm start'
